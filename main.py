@@ -2,7 +2,7 @@ import streamlit as st
 import time
 
 st.header("EnlightenedAI")
-st.subheader("Satisfy your spiritual quest")
+st.subheader("Quench your spiritual quest")
 
 st.sidebar.title("About the APP")
 st.sidebar.markdown("This is an EnlightenedAI Quenching spiritual quests of seekers.")
