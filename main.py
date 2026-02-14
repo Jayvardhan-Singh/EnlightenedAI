@@ -11,7 +11,7 @@ st.slider("Creativity: ", min_value = 0.0, max_value = 2.0, value = 1.0)
 thinking = st.selectbox("Thinking: ", ['On', 'Off'])
 
 MAX_CHARS = 100
-question = st.text_area("Type your spiritual question here and then press `Submit`: ", max_chars=MAX_CHARS, placeholder=f"Maximum {MAX_CHARS} characters allowed")
+question = st.text_area("Type your spiritual question here and then press Submit: ", max_chars=MAX_CHARS, placeholder=f"Maximum {MAX_CHARS} characters allowed")
 
 def stream_content():
         full_text = f'''
