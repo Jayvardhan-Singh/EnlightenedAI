@@ -1,6 +1,4 @@
 # EnlightenedAI
-This is a Fun Project.
+Enlightenment may be Everything or Nothing
 <br>
 Author - Jayvardhan Singh
-<br>
-Enlightenment may be Everything or Nothing.
